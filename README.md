@@ -144,11 +144,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### Main Interface
 <img width="1839" height="794" alt="image" src="https://github.com/user-attachments/assets/f1361ffd-2bb6-4b40-8314-9ea35070022c" />
+
 *Clean and intuitive interface for uploading resumes*
 
 ### Resume Rating & Feedback
 <img width="1827" height="811" alt="image" src="https://github.com/user-attachments/assets/761b18e3-dc5d-4d00-851a-a6ca3fd18032" />
 <img width="1802" height="813" alt="image" src="https://github.com/user-attachments/assets/aa1908c9-70e6-4d84-b100-50ab90cd3455" />
+
 *Detailed rating with strengths and improvement areas*
 
 ### Job Comparison Analysis
