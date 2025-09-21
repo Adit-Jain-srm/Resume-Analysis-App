@@ -143,19 +143,18 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📸 Screenshots
 
 ### Main Interface
-![Resume Analysis App Interface](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Upload+Your+Resume+Here)
+<img width="1839" height="794" alt="image" src="https://github.com/user-attachments/assets/f1361ffd-2bb6-4b40-8314-9ea35070022c" />
 *Clean and intuitive interface for uploading resumes*
 
-### Resume Highlights Analysis
-![Resume Highlights](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Skills+%7C+Projects+%7C+Keywords+Analysis)
-*Comprehensive extraction of skills, projects, and key information*
-
 ### Resume Rating & Feedback
-![Resume Rating](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=Resume+Rating+%26+Improvement+Suggestions)
+<img width="1827" height="811" alt="image" src="https://github.com/user-attachments/assets/761b18e3-dc5d-4d00-851a-a6ca3fd18032" />
+<img width="1802" height="813" alt="image" src="https://github.com/user-attachments/assets/aa1908c9-70e6-4d84-b100-50ab90cd3455" />
 *Detailed rating with strengths and improvement areas*
 
 ### Job Comparison Analysis
-![Job Comparison](https://via.placeholder.com/800x400/9C27B0/FFFFFF?text=Job+Match+Analysis+%26+Missing+Skills)
+<img width="1785" height="789" alt="image" src="https://github.com/user-attachments/assets/d47839a6-1d43-46a4-8de0-4adfbe83774c" />
+<img width="1796" height="809" alt="image" src="https://github.com/user-attachments/assets/b610f1a9-a902-4e39-8cbe-d70cddb6f00b" />
+
 *Smart comparison against target job roles*
 
 ---
