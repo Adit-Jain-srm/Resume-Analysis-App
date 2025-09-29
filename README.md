@@ -108,6 +108,14 @@ This project was built for the **GenAI-Powered Solutions: Hack The Matrix** hack
 - ✅ Professional summary generation (2-line format)
 - ✅ Job title comparison with missing skills identification
 
+### 🏆 Achievement:
+
+This project secured the 🥉 2nd Runner-up (3rd Rank) position at the GenAI-Powered Solutions: Hack The Matrix Hackathon, organized by UnsaidTalks Education Pvt. Ltd. 🎉
+
+🎖️ Prize: Scholarship worth ₹5,000 for the Build4Hire Job Guarantee Program
+📜 Recognition: Certificate of Excellence
+<img width="1123" height="794" alt="Certificate_of_Excellence" src="https://github.com/user-attachments/assets/53e9c174-d3b6-421a-966f-1cdf49380d25" />
+
 ---
 
 ## 🔧 Technical Implementation
