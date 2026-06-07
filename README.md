@@ -1,4 +1,20 @@
-# 📄 Resume Analysis App - GenAI-Powered Solutions
+<div align="center">
+
+# Resume Analysis App
+
+**NLP-Powered Resume Parsing and Analysis**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![NLP](https://img.shields.io/badge/NLP-spaCy-09A3D5?logo=spacy)](https://spacy.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Adit-Jain-srm/Resume-Analysis-App)](https://github.com/Adit-Jain-srm/Resume-Analysis-App)
+
+*Extract insights, skills, and experience from resumes using natural language processing.*
+
+</div>
+
+---
 
 **An AI-powered resume analyzer that helps students and professionals create impactful resumes that stand out to recruiters.**
 
